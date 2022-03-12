@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+﻿  fileio1.c
+C:\Users\dltkd\Desktop\C__Basic\CH11~12\fileio1.c(39,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\dltkd\Desktop\C__Basic\CH11~12\fileio1.c(58,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  LINK : C:\Users\dltkd\Desktop\C__Basic\CH11~12\Debug\CH11~12.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  CH11~12.vcxproj -> C:\Users\dltkd\Desktop\C__Basic\CH11~12\Debug\CH11~12.exe
+=======
+﻿  CH11~12.vcxproj -> D:\C_Basic\CH11~12\Debug\CH11~12.exe
+>>>>>>> cd7ae0c68c90522407a0ed3b98250095061d0df5
